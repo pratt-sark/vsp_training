@@ -1,0 +1,4 @@
+[submodule "meditrack"]
+	path = meditrack
+	url = https://github.com/pratt-sark/meditrack
+	branch = main
